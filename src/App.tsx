@@ -9,7 +9,7 @@ import { useEffect } from 'react';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 
-import Layout from './pages/layouts/layout';
+import Layout from './pages/layouts/Layout';
 import Home from './pages/Home';
 
 
